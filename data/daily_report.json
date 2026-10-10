@@ -1,12 +1,13 @@
 {
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T19:15:47Z",
-  "posts_today": 7,
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T18:14:19Z",
+  "posts_today": 8,
   "latest_post": {
-    "time": "2026-10-09T18:46",
-    "content_preview": "I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, where"
+    "time": "2026-10-10T14:42",
+    "content_preview": "Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced "
   },
   "signals_detected": [
+    "CHINA",
     "IRAN"
   ],
   "models_triggered": 0,
@@ -22,12 +23,12 @@
   },
   "sp500_latest": {
     "date": "2026-10-09",
-    "close": 7816.99
+    "close": 7811.54
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-09\nPosts today: 7 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, where",
-    "zh": "川普密碼每日報告 -- 2026-10-09\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, where",
-    "ja": "トランプ・コード日次レポート -- 2026-10-09\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: I have just concluded a highly successful discussion with President Vladimir Putin, of Russia, where"
+    "en": "Trump Code Daily Report -- 2026-10-10\nPosts today: 8 | Models triggered: 0\nSignals: CHINA, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced ",
+    "zh": "川普密碼每日報告 -- 2026-10-10\n今日推文: 8 篇 | 觸發模型: 0 組\n偵測信號: 中國, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced ",
+    "ja": "トランプ・コード日次レポート -- 2026-10-10\n本日の投稿: 8件 | トリガーモデル: 0組\n検出シグナル: 中国, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: Robert Jeffress, senior pastor of First Baptist Dallas, says he supports public execution announced "
   },
   "triggered_rules_sample": []
 }

@@ -30442,5 +30442,175 @@
         "trend": "insufficient_data"
       }
     }
+  },
+  {
+    "date": "2026-10-10",
+    "weight_adjustments": [
+      {
+        "date": "2026-10-10",
+        "model_id": "A2_deal_bullish",
+        "action": "DEMOTE",
+        "reason": "連錯 4 次",
+        "old_weight": 1.0,
+        "new_weight": 0.75,
+        "stats_snapshot": {
+          "total": 90,
+          "win_rate": 52.2,
+          "recent_win_rate": 46.7,
+          "streak": -4,
+          "trend": "stable",
+          "avg_return": 0.029
+        }
+      },
+      {
+        "date": "2026-10-10",
+        "model_id": "B3_action_pre",
+        "action": "PROMOTE",
+        "reason": "近期命中率 66.7% 優秀",
+        "old_weight": 1.0,
+        "new_weight": 1.15,
+        "stats_snapshot": {
+          "total": 33,
+          "win_rate": 66.7,
+          "recent_win_rate": 66.7,
+          "streak": 1,
+          "trend": "improving",
+          "avg_return": 0.199
+        }
+      },
+      {
+        "date": "2026-10-10",
+        "model_id": "D3_volume_spike",
+        "action": "PROMOTE",
+        "reason": "連對 9 次",
+        "old_weight": 1.0,
+        "new_weight": 1.15,
+        "stats_snapshot": {
+          "total": 47,
+          "win_rate": 70.2,
+          "recent_win_rate": 80.0,
+          "streak": 9,
+          "trend": "improving",
+          "avg_return": 0.306
+        }
+      },
+      {
+        "date": "2026-10-10",
+        "model_id": "D2_sig_change",
+        "action": "PROMOTE",
+        "reason": "連對 4 次",
+        "old_weight": 1.0,
+        "new_weight": 1.15,
+        "stats_snapshot": {
+          "total": 80,
+          "win_rate": 70.0,
+          "recent_win_rate": 60.0,
+          "streak": 4,
+          "trend": "declining",
+          "avg_return": 0.472
+        }
+      },
+      {
+        "date": "2026-10-10",
+        "model_id": "A3_relief_rocket",
+        "action": "PROMOTE",
+        "reason": "連對 4 次",
+        "old_weight": 1.0,
+        "new_weight": 1.15,
+        "stats_snapshot": {
+          "total": 11,
+          "win_rate": 72.7,
+          "recent_win_rate": 72.7,
+          "streak": 4,
+          "trend": "improving",
+          "avg_return": 1.206
+        }
+      },
+      {
+        "date": "2026-10-10",
+        "model_id": "C3_night_alert",
+        "action": "ELIMINATE",
+        "reason": "近期命中率 37.5% < 38% 門檻",
+        "old_weight": 1.0,
+        "new_weight": 0,
+        "stats_snapshot": {
+          "total": 8,
+          "win_rate": 37.5,
+          "recent_win_rate": 37.5,
+          "streak": -4,
+          "trend": "insufficient_data",
+          "avg_return": -0.414
+        }
+      }
+    ],
+    "signal_adjustments": [],
+    "model_stats_snapshot": {
+      "C1_burst_silence": {
+        "win_rate": 65.3,
+        "recent_win_rate": 63.3,
+        "streak": -2,
+        "trend": "stable"
+      },
+      "B1_triple_signal": {
+        "win_rate": 64.7,
+        "recent_win_rate": 64.7,
+        "streak": 1,
+        "trend": "declining"
+      },
+      "B2_tariff_to_deal": {
+        "win_rate": 57.9,
+        "recent_win_rate": 57.9,
+        "streak": -1,
+        "trend": "improving"
+      },
+      "A2_deal_bullish": {
+        "win_rate": 52.2,
+        "recent_win_rate": 46.7,
+        "streak": -4,
+        "trend": "stable"
+      },
+      "B3_action_pre": {
+        "win_rate": 66.7,
+        "recent_win_rate": 66.7,
+        "streak": 1,
+        "trend": "improving"
+      },
+      "D3_volume_spike": {
+        "win_rate": 70.2,
+        "recent_win_rate": 80.0,
+        "streak": 9,
+        "trend": "improving"
+      },
+      "D2_sig_change": {
+        "win_rate": 70.0,
+        "recent_win_rate": 60.0,
+        "streak": 4,
+        "trend": "declining"
+      },
+      "A1_tariff_bearish": {
+        "win_rate": 56.5,
+        "recent_win_rate": 56.5,
+        "streak": 3,
+        "trend": "declining"
+      },
+      "A3_relief_rocket": {
+        "win_rate": 72.7,
+        "recent_win_rate": 72.7,
+        "streak": 4,
+        "trend": "improving"
+      },
+      "C2_brag_top": {
+        "win_rate": 45.0,
+        "recent_win_rate": 50.0,
+        "streak": 3,
+        "trend": "improving"
+      },
+      "C3_night_alert": {
+        "win_rate": 37.5,
+        "recent_win_rate": 37.5,
+        "streak": -4,
+        "trend": "insufficient_data"
+      }
+    }
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T19:15:52Z",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T18:14:25Z",
   "total_models": 11,
   "total_verified": 564,
   "ranking": [
@@ -118,7 +118,7 @@
   "adjustments": {
     "weights": [
       {
-        "date": "2026-10-09",
+        "date": "2026-10-10",
         "model_id": "A2_deal_bullish",
         "action": "DEMOTE",
         "reason": "連錯 4 次",
@@ -134,7 +134,7 @@
         }
       },
       {
-        "date": "2026-10-09",
+        "date": "2026-10-10",
         "model_id": "B3_action_pre",
         "action": "PROMOTE",
         "reason": "近期命中率 66.7% 優秀",
@@ -150,7 +150,7 @@
         }
       },
       {
-        "date": "2026-10-09",
+        "date": "2026-10-10",
         "model_id": "D3_volume_spike",
         "action": "PROMOTE",
         "reason": "連對 9 次",
@@ -166,7 +166,7 @@
         }
       },
       {
-        "date": "2026-10-09",
+        "date": "2026-10-10",
         "model_id": "D2_sig_change",
         "action": "PROMOTE",
         "reason": "連對 4 次",
@@ -182,7 +182,7 @@
         }
       },
       {
-        "date": "2026-10-09",
+        "date": "2026-10-10",
         "model_id": "A3_relief_rocket",
         "action": "PROMOTE",
         "reason": "連對 4 次",
@@ -198,7 +198,7 @@
         }
       },
       {
-        "date": "2026-10-09",
+        "date": "2026-10-10",
         "model_id": "C3_night_alert",
         "action": "ELIMINATE",
         "reason": "近期命中率 37.5% < 38% 門檻",
@@ -223,8 +223,8 @@
     }
   },
   "summary": {
-    "en": "Learning Report — 2026-10-09\nModels: 11 | Verified: 564\nBest: D3_volume_spike (80.0% recent)\nWorst: C3_night_alert (37.5% recent)\nActions: 4 promoted, 1 demoted, 1 eliminated\nSignal adjustments: 0",
-    "zh": "學習報告 — 2026-10-09\n模型數: 11 | 已驗證: 564 筆\n最強: D3_volume_spike（近期 80.0%）\n最弱: C3_night_alert（近期 37.5%）\n調整: 4 升級 / 1 降級 / 1 淘汰\n信號信心度調整: 0 項",
-    "ja": "学習レポート — 2026-10-09\nモデル数: 11 | 検証済み: 564件\n最強: D3_volume_spike（直近 80.0%）\n最弱: C3_night_alert（直近 37.5%）\n調整: 4昇格 / 1降格 / 1除外\nシグナル信頼度調整: 0件"
+    "en": "Learning Report — 2026-10-10\nModels: 11 | Verified: 564\nBest: D3_volume_spike (80.0% recent)\nWorst: C3_night_alert (37.5% recent)\nActions: 4 promoted, 1 demoted, 1 eliminated\nSignal adjustments: 0",
+    "zh": "學習報告 — 2026-10-10\n模型數: 11 | 已驗證: 564 筆\n最強: D3_volume_spike（近期 80.0%）\n最弱: C3_night_alert（近期 37.5%）\n調整: 4 升級 / 1 降級 / 1 淘汰\n信號信心度調整: 0 項",
+    "ja": "学習レポート — 2026-10-10\nモデル数: 11 | 検証済み: 564件\n最強: D3_volume_spike（直近 80.0%）\n最弱: C3_night_alert（直近 37.5%）\n調整: 4昇格 / 1降格 / 1除外\nシグナル信頼度調整: 0件"
   }
 }

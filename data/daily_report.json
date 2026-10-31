@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T18:59:44Z",
-  "posts_today": 10,
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T18:10:29Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-10-30T11:29",
-    "content_preview": "https://conservativebrief.com/senate-race-poll-midterm-105503/"
+    "time": "2026-10-31T18:03",
+    "content_preview": "PENNSYLVANIA, I am doing a TeleRally, NOW, for Stacy Garrity for Governor, Congressman Ryan Mackenzi"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -20,12 +20,12 @@
   },
   "sp500_latest": {
     "date": "2026-10-30",
-    "close": 7546.94
+    "close": 7580.07
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-30\nPosts today: 10 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: https://conservativebrief.com/senate-race-poll-midterm-105503/",
-    "zh": "川普密碼每日報告 -- 2026-10-30\n今日推文: 10 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: https://conservativebrief.com/senate-race-poll-midterm-105503/",
-    "ja": "トランプ・コード日次レポート -- 2026-10-30\n本日の投稿: 10件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: https://conservativebrief.com/senate-race-poll-midterm-105503/"
+    "en": "Trump Code Daily Report -- 2026-10-31\nPosts today: 4 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: PENNSYLVANIA, I am doing a TeleRally, NOW, for Stacy Garrity for Governor, Congressman Ryan Mackenzi",
+    "zh": "川普密碼每日報告 -- 2026-10-31\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: PENNSYLVANIA, I am doing a TeleRally, NOW, for Stacy Garrity for Governor, Congressman Ryan Mackenzi",
+    "ja": "トランプ・コード日次レポート -- 2026-10-31\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: PENNSYLVANIA, I am doing a TeleRally, NOW, for Stacy Garrity for Governor, Congressman Ryan Mackenzi"
   },
   "triggered_rules_sample": []
 }

@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T18:10:29Z",
-  "posts_today": 4,
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T18:45:35Z",
+  "posts_today": 20,
   "latest_post": {
-    "time": "2026-10-31T18:03",
-    "content_preview": "PENNSYLVANIA, I am doing a TeleRally, NOW, for Stacy Garrity for Governor, Congressman Ryan Mackenzi"
+    "time": "2026-11-01T18:38",
+    "content_preview": "Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -23,9 +23,9 @@
     "close": 7580.07
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-10-31\nPosts today: 4 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: PENNSYLVANIA, I am doing a TeleRally, NOW, for Stacy Garrity for Governor, Congressman Ryan Mackenzi",
-    "zh": "川普密碼每日報告 -- 2026-10-31\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: PENNSYLVANIA, I am doing a TeleRally, NOW, for Stacy Garrity for Governor, Congressman Ryan Mackenzi",
-    "ja": "トランプ・コード日次レポート -- 2026-10-31\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: PENNSYLVANIA, I am doing a TeleRally, NOW, for Stacy Garrity for Governor, Congressman Ryan Mackenzi"
+    "en": "Trump Code Daily Report -- 2026-11-01\nPosts today: 20 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the",
+    "zh": "川普密碼每日報告 -- 2026-11-01\n今日推文: 20 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the",
+    "ja": "トランプ・コード日次レポート -- 2026-11-01\n本日の投稿: 20件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the"
   },
   "triggered_rules_sample": []
 }

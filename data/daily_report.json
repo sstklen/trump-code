@@ -1,12 +1,14 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T18:45:35Z",
-  "posts_today": 20,
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T22:36:39Z",
+  "posts_today": 68,
   "latest_post": {
-    "time": "2026-11-01T18:38",
-    "content_preview": "Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the"
+    "time": "2026-11-02T22:30",
+    "content_preview": "TO THE GREAT PEOPLE OF ALASKA, MAKE A PLAN TO GET OUT AND VOTE FOR:– Dan S. Sullivan for U.S. Senate"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "IRAN"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +21,13 @@
     "rate": 68.8
   },
   "sp500_latest": {
-    "date": "2026-10-30",
-    "close": 7580.07
+    "date": "2026-11-02",
+    "close": 7541.4
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-01\nPosts today: 20 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the",
-    "zh": "川普密碼每日報告 -- 2026-11-01\n今日推文: 20 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the",
-    "ja": "トランプ・コード日次レポート -- 2026-11-01\n本日の投稿: 20件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: Wow, this is BIG! Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the"
+    "en": "Trump Code Daily Report -- 2026-11-02\nPosts today: 68 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: TO THE GREAT PEOPLE OF ALASKA, MAKE A PLAN TO GET OUT AND VOTE FOR:– Dan S. Sullivan for U.S. Senate",
+    "zh": "川普密碼每日報告 -- 2026-11-02\n今日推文: 68 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: TO THE GREAT PEOPLE OF ALASKA, MAKE A PLAN TO GET OUT AND VOTE FOR:– Dan S. Sullivan for U.S. Senate",
+    "ja": "トランプ・コード日次レポート -- 2026-11-02\n本日の投稿: 68件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: TO THE GREAT PEOPLE OF ALASKA, MAKE A PLAN TO GET OUT AND VOTE FOR:– Dan S. Sullivan for U.S. Senate"
   },
   "triggered_rules_sample": []
 }

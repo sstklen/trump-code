@@ -1,8 +1,8 @@
 {
   "meta": {
     "total_surviving": 600,
-    "last_evolution": "2026-11-01T18:45:38Z",
-    "evolved_rules_added": 48
+    "last_evolution": "2026-11-02T22:36:43Z",
+    "evolved_rules_added": 44
   },
   "rules": [
     {
@@ -13055,7 +13055,12 @@
       "parents": [
         "kw_wonderful+open_trade",
         "kw_economy+kw_interest_rate"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [

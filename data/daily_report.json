@@ -1,19 +1,16 @@
 {
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T20:25:51Z",
-  "posts_today": 140,
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T20:40:35Z",
+  "posts_today": 6,
   "latest_post": {
-    "time": "2026-11-03T19:38",
-    "content_preview": "The Jewish community in Monsey, New York, and its surrounding neighborhoods, voted in very big numbe"
+    "time": "2026-11-04T17:27",
+    "content_preview": "Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two y"
   },
-  "signals_detected": [
-    "TARIFF",
-    "TARIFF_ONLY"
-  ],
-  "models_triggered": 4,
+  "signals_detected": [],
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 2,
-    "SHORT": 2,
+    "LONG": 0,
+    "SHORT": 0,
     "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
@@ -22,58 +19,13 @@
     "rate": 68.8
   },
   "sp500_latest": {
-    "date": "2026-11-03",
-    "close": 7570.68
+    "date": "2026-11-04",
+    "close": 7698.24
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-03\nPosts today: 140 | Models triggered: 4\nSignals: TARIFF, TARIFF_ONLY\nConsensus: 2 LONG vs 2 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: The Jewish community in Monsey, New York, and its surrounding neighborhoods, voted in very big numbe",
-    "zh": "川普密碼每日報告 -- 2026-11-03\n今日推文: 140 篇 | 觸發模型: 4 組\n偵測信號: 關稅, 只有關稅沒有Deal\n共識方向: 2 組看多 vs 2 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: The Jewish community in Monsey, New York, and its surrounding neighborhoods, voted in very big numbe",
-    "ja": "トランプ・コード日次レポート -- 2026-11-03\n本日の投稿: 140件 | トリガーモデル: 4組\n検出シグナル: 関税, 関税のみ（Deal無し）\nコンセンサス: 2組ロング vs 2組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: The Jewish community in Monsey, New York, and its surrounding neighborhoods, voted in very big numbe"
+    "en": "Trump Code Daily Report -- 2026-11-04\nPosts today: 6 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two y",
+    "zh": "川普密碼每日報告 -- 2026-11-04\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two y",
+    "ja": "トランプ・コード日次レポート -- 2026-11-04\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two y"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_biden",
-        "kw_india",
-        "kw_tariffs"
-      ],
-      "direction": "SHORT",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_beautiful",
-        "open_thank_you_for_your_attention",
-        "open_tremendous"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_america_first",
-        "kw_beautiful",
-        "kw_terrible"
-      ],
-      "direction": "SHORT",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_tariffs",
-        "open_thank_you_for_your_attention",
-        "questions_yes"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }

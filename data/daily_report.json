@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T20:40:35Z",
-  "posts_today": 6,
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T20:56:47Z",
+  "posts_today": 2,
   "latest_post": {
-    "time": "2026-11-04T17:27",
-    "content_preview": "Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two y"
+    "time": "2026-11-05T13:40",
+    "content_preview": "The vote totals for the Fake Dan Sullivan, plus the other \"slug\" that the Dems put on the Ballot, sh"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -19,13 +19,13 @@
     "rate": 68.8
   },
   "sp500_latest": {
-    "date": "2026-11-04",
-    "close": 7698.24
+    "date": "2026-11-05",
+    "close": 7363.09
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-04\nPosts today: 6 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two y",
-    "zh": "川普密碼每日報告 -- 2026-11-04\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two y",
-    "ja": "トランプ・コード日次レポート -- 2026-11-04\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two y"
+    "en": "Trump Code Daily Report -- 2026-11-05\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: The vote totals for the Fake Dan Sullivan, plus the other \"slug\" that the Dems put on the Ballot, sh",
+    "zh": "川普密碼每日報告 -- 2026-11-05\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: The vote totals for the Fake Dan Sullivan, plus the other \"slug\" that the Dems put on the Ballot, sh",
+    "ja": "トランプ・コード日次レポート -- 2026-11-05\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: The vote totals for the Fake Dan Sullivan, plus the other \"slug\" that the Dems put on the Ballot, sh"
   },
   "triggered_rules_sample": []
 }

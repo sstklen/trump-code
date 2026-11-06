@@ -1,7 +1,7 @@
 {
   "meta": {
     "total_surviving": 600,
-    "last_evolution": "2026-11-05T20:56:51Z",
+    "last_evolution": "2026-11-06T20:15:09Z",
     "evolved_rules_added": 48
   },
   "rules": [
@@ -14102,7 +14102,12 @@
       "parents": [
         "kw_maga+kw_wonderful",
         "kw_deal_2plus+kw_economy"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [

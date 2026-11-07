@@ -1,14 +1,12 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T20:15:01Z",
-  "posts_today": 7,
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T18:28:47Z",
+  "posts_today": 3,
   "latest_post": {
-    "time": "2026-11-06T18:51",
-    "content_preview": "I am pleased to announce that Mr. Stephen Miller, the current Deputy Chief of Staff of the Trump Adm"
+    "time": "2026-11-07T17:45",
+    "content_preview": "The Democrats are going around threatening a lot of people, including the Attorney General of the Un"
   },
-  "signals_detected": [
-    "IRAN"
-  ],
+  "signals_detected": [],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -22,12 +20,12 @@
   },
   "sp500_latest": {
     "date": "2026-11-06",
-    "close": 7403.99
+    "close": 7376.86
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-06\nPosts today: 7 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: I am pleased to announce that Mr. Stephen Miller, the current Deputy Chief of Staff of the Trump Adm",
-    "zh": "川普密碼每日報告 -- 2026-11-06\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: I am pleased to announce that Mr. Stephen Miller, the current Deputy Chief of Staff of the Trump Adm",
-    "ja": "トランプ・コード日次レポート -- 2026-11-06\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: I am pleased to announce that Mr. Stephen Miller, the current Deputy Chief of Staff of the Trump Adm"
+    "en": "Trump Code Daily Report -- 2026-11-07\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: The Democrats are going around threatening a lot of people, including the Attorney General of the Un",
+    "zh": "川普密碼每日報告 -- 2026-11-07\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: The Democrats are going around threatening a lot of people, including the Attorney General of the Un",
+    "ja": "トランプ・コード日次レポート -- 2026-11-07\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: The Democrats are going around threatening a lot of people, including the Attorney General of the Un"
   },
   "triggered_rules_sample": []
 }

@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T18:28:47Z",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T18:39:40Z",
   "posts_today": 3,
   "latest_post": {
-    "time": "2026-11-07T17:45",
-    "content_preview": "The Democrats are going around threatening a lot of people, including the Attorney General of the Un"
+    "time": "2026-11-08T16:01",
+    "content_preview": "I will be interviewed tonight on \"60 Minutes.\" Hopefully, they will show all the good things we've d"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -23,9 +23,9 @@
     "close": 7376.86
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-07\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: The Democrats are going around threatening a lot of people, including the Attorney General of the Un",
-    "zh": "川普密碼每日報告 -- 2026-11-07\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: The Democrats are going around threatening a lot of people, including the Attorney General of the Un",
-    "ja": "トランプ・コード日次レポート -- 2026-11-07\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: The Democrats are going around threatening a lot of people, including the Attorney General of the Un"
+    "en": "Trump Code Daily Report -- 2026-11-08\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: I will be interviewed tonight on \"60 Minutes.\" Hopefully, they will show all the good things we've d",
+    "zh": "川普密碼每日報告 -- 2026-11-08\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: I will be interviewed tonight on \"60 Minutes.\" Hopefully, they will show all the good things we've d",
+    "ja": "トランプ・コード日次レポート -- 2026-11-08\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: I will be interviewed tonight on \"60 Minutes.\" Hopefully, they will show all the good things we've d"
   },
   "triggered_rules_sample": []
 }

@@ -2294,5 +2294,14 @@
     "short": 0,
     "signals": [],
     "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-11-08",
+    "posts": 3,
+    "triggered": 0,
+    "long": 0,
+    "short": 0,
+    "signals": [],
+    "consensus": "NEUTRAL"
   }
 ]

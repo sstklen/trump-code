@@ -1,12 +1,15 @@
 {
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T18:39:40Z",
-  "posts_today": 3,
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T23:17:06Z",
+  "posts_today": 5,
   "latest_post": {
-    "time": "2026-11-08T16:01",
-    "content_preview": "I will be interviewed tonight on \"60 Minutes.\" Hopefully, they will show all the good things we've d"
+    "time": "2026-11-09T23:04",
+    "content_preview": "Very important for the U.S. Senate to confirm all of our pending 161 Nominations, including 25 Feder"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "CHINA",
+    "IRAN"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +22,13 @@
     "rate": 68.8
   },
   "sp500_latest": {
-    "date": "2026-11-06",
-    "close": 7376.86
+    "date": "2026-11-09",
+    "close": 7549.94
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-08\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: I will be interviewed tonight on \"60 Minutes.\" Hopefully, they will show all the good things we've d",
-    "zh": "川普密碼每日報告 -- 2026-11-08\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: I will be interviewed tonight on \"60 Minutes.\" Hopefully, they will show all the good things we've d",
-    "ja": "トランプ・コード日次レポート -- 2026-11-08\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: I will be interviewed tonight on \"60 Minutes.\" Hopefully, they will show all the good things we've d"
+    "en": "Trump Code Daily Report -- 2026-11-09\nPosts today: 5 | Models triggered: 0\nSignals: CHINA, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: Very important for the U.S. Senate to confirm all of our pending 161 Nominations, including 25 Feder",
+    "zh": "川普密碼每日報告 -- 2026-11-09\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 中國, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: Very important for the U.S. Senate to confirm all of our pending 161 Nominations, including 25 Feder",
+    "ja": "トランプ・コード日次レポート -- 2026-11-09\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: 中国, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: Very important for the U.S. Senate to confirm all of our pending 161 Nominations, including 25 Feder"
   },
   "triggered_rules_sample": []
 }

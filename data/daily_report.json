@@ -1,13 +1,12 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T23:17:06Z",
-  "posts_today": 5,
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T20:42:55Z",
+  "posts_today": 7,
   "latest_post": {
-    "time": "2026-11-09T23:04",
-    "content_preview": "Very important for the U.S. Senate to confirm all of our pending 161 Nominations, including 25 Feder"
+    "time": "2026-11-10T16:54",
+    "content_preview": "I am pleased to nominate James Sullivan to serve as Judge on the United States District Court for th"
   },
   "signals_detected": [
-    "CHINA",
     "IRAN"
   ],
   "models_triggered": 0,
@@ -22,13 +21,13 @@
     "rate": 68.8
   },
   "sp500_latest": {
-    "date": "2026-11-09",
-    "close": 7549.94
+    "date": "2026-11-10",
+    "close": 7515.61
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-09\nPosts today: 5 | Models triggered: 0\nSignals: CHINA, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: Very important for the U.S. Senate to confirm all of our pending 161 Nominations, including 25 Feder",
-    "zh": "川普密碼每日報告 -- 2026-11-09\n今日推文: 5 篇 | 觸發模型: 0 組\n偵測信號: 中國, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: Very important for the U.S. Senate to confirm all of our pending 161 Nominations, including 25 Feder",
-    "ja": "トランプ・コード日次レポート -- 2026-11-09\n本日の投稿: 5件 | トリガーモデル: 0組\n検出シグナル: 中国, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: Very important for the U.S. Senate to confirm all of our pending 161 Nominations, including 25 Feder"
+    "en": "Trump Code Daily Report -- 2026-11-10\nPosts today: 7 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: I am pleased to nominate James Sullivan to serve as Judge on the United States District Court for th",
+    "zh": "川普密碼每日報告 -- 2026-11-10\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: I am pleased to nominate James Sullivan to serve as Judge on the United States District Court for th",
+    "ja": "トランプ・コード日次レポート -- 2026-11-10\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: I am pleased to nominate James Sullivan to serve as Judge on the United States District Court for th"
   },
   "triggered_rules_sample": []
 }

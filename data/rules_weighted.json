@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-10T20:42:59Z",
+    "updated_at": "2026-11-11T21:03:09Z",
     "total_rules": 600,
     "eliminated": 0,
     "rules_with_data": 0
@@ -13092,6 +13092,32 @@
     },
     {
       "features": [
+        "kw_president_of_the_united_states",
+        "volume_spike"
+      ],
+      "direction": "LONG",
+      "hold": 3,
+      "id": "f22c4e16e1fb",
+      "n_cond": 2,
+      "train_trades": 5,
+      "train_win_rate": 100.0,
+      "train_avg": 0.981,
+      "test_trades": 4,
+      "test_win_rate": 100.0,
+      "test_avg": 1.293,
+      "combined_score": 100.0,
+      "origin": "mutation_replace",
+      "born_date": "2026-11-10",
+      "weight": 1.0,
+      "parent": "kw_president_of_the_united_states+open_ban",
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
+    },
+    {
+      "features": [
         "open_ukraine",
         "kw_maga"
       ],
@@ -14862,35 +14888,6 @@
       "parents": [
         "kw_dow_2plus+kw_energy",
         "is_friday+kw_interest_rate"
-      ],
-      "learn_stats": {
-        "correct": 0,
-        "wrong": 0,
-        "streak": 0
-      }
-    },
-    {
-      "features": [
-        "kw_oil",
-        "is_friday"
-      ],
-      "direction": "LONG",
-      "hold": 1,
-      "id": "5483466f3955",
-      "n_cond": 2,
-      "train_trades": 6,
-      "train_win_rate": 83.3,
-      "train_avg": 0.717,
-      "test_trades": 3,
-      "test_win_rate": 100.0,
-      "test_avg": 0.789,
-      "combined_score": 91.7,
-      "origin": "crossover",
-      "born_date": "2026-03-18",
-      "weight": 1.0,
-      "parents": [
-        "is_friday+open_tariff",
-        "kw_oil+kw_russia"
       ],
       "learn_stats": {
         "correct": 0,

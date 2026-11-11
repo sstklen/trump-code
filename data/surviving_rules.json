@@ -1,8 +1,8 @@
 {
   "meta": {
     "total_surviving": 600,
-    "last_evolution": "2026-11-10T20:42:59Z",
-    "evolved_rules_added": 43
+    "last_evolution": "2026-11-11T21:03:09Z",
+    "evolved_rules_added": 48
   },
   "rules": [
     {
@@ -13108,7 +13108,12 @@
       "origin": "mutation_replace",
       "born_date": "2026-11-10",
       "weight": 1.0,
-      "parent": "kw_president_of_the_united_states+open_ban"
+      "parent": "kw_president_of_the_united_states+open_ban",
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [

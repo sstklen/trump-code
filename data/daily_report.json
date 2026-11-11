@@ -1,14 +1,12 @@
 {
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T20:42:55Z",
-  "posts_today": 7,
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T21:03:05Z",
+  "posts_today": 2,
   "latest_post": {
-    "time": "2026-11-10T16:54",
-    "content_preview": "I am pleased to nominate James Sullivan to serve as Judge on the United States District Court for th"
+    "time": "2026-11-11T06:47",
+    "content_preview": "The failing New York Times wrote about the \"settling of a sexual harassment suit brought years ago b"
   },
-  "signals_detected": [
-    "IRAN"
-  ],
+  "signals_detected": [],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -21,13 +19,13 @@
     "rate": 68.8
   },
   "sp500_latest": {
-    "date": "2026-11-10",
-    "close": 7515.61
+    "date": "2026-11-11",
+    "close": 7619.4
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-10\nPosts today: 7 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: I am pleased to nominate James Sullivan to serve as Judge on the United States District Court for th",
-    "zh": "川普密碼每日報告 -- 2026-11-10\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: I am pleased to nominate James Sullivan to serve as Judge on the United States District Court for th",
-    "ja": "トランプ・コード日次レポート -- 2026-11-10\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: I am pleased to nominate James Sullivan to serve as Judge on the United States District Court for th"
+    "en": "Trump Code Daily Report -- 2026-11-11\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: The failing New York Times wrote about the \"settling of a sexual harassment suit brought years ago b",
+    "zh": "川普密碼每日報告 -- 2026-11-11\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: The failing New York Times wrote about the \"settling of a sexual harassment suit brought years ago b",
+    "ja": "トランプ・コード日次レポート -- 2026-11-11\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: The failing New York Times wrote about the \"settling of a sexual harassment suit brought years ago b"
   },
   "triggered_rules_sample": []
 }

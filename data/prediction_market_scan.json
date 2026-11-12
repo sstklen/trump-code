@@ -1,6 +1,8 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-12",
   "signals": [
+    "TARIFF",
+    "DEAL",
     "IRAN"
   ],
   "opportunities": [],

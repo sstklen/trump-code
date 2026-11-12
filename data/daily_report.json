@@ -1,12 +1,16 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T21:03:05Z",
-  "posts_today": 2,
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T21:18:31Z",
+  "posts_today": 10,
   "latest_post": {
-    "time": "2026-11-11T06:47",
-    "content_preview": "The failing New York Times wrote about the \"settling of a sexual harassment suit brought years ago b"
+    "time": "2026-11-12T18:41",
+    "content_preview": "Senator Chuck Schumer just stated that he wants to end corruption in the United States. I assume he'"
   },
-  "signals_detected": [],
+  "signals_detected": [
+    "TARIFF",
+    "DEAL",
+    "IRAN"
+  ],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -19,13 +23,13 @@
     "rate": 68.8
   },
   "sp500_latest": {
-    "date": "2026-11-11",
-    "close": 7619.4
+    "date": "2026-11-12",
+    "close": 7592.4
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-11\nPosts today: 2 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: The failing New York Times wrote about the \"settling of a sexual harassment suit brought years ago b",
-    "zh": "川普密碼每日報告 -- 2026-11-11\n今日推文: 2 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: The failing New York Times wrote about the \"settling of a sexual harassment suit brought years ago b",
-    "ja": "トランプ・コード日次レポート -- 2026-11-11\n本日の投稿: 2件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: The failing New York Times wrote about the \"settling of a sexual harassment suit brought years ago b"
+    "en": "Trump Code Daily Report -- 2026-11-12\nPosts today: 10 | Models triggered: 0\nSignals: TARIFF, DEAL, IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: Senator Chuck Schumer just stated that he wants to end corruption in the United States. I assume he'",
+    "zh": "川普密碼每日報告 -- 2026-11-12\n今日推文: 10 篇 | 觸發模型: 0 組\n偵測信號: 關稅, Deal, 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: Senator Chuck Schumer just stated that he wants to end corruption in the United States. I assume he'",
+    "ja": "トランプ・コード日次レポート -- 2026-11-12\n本日の投稿: 10件 | トリガーモデル: 0組\n検出シグナル: 関税, ディール, イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: Senator Chuck Schumer just stated that he wants to end corruption in the United States. I assume he'"
   },
   "triggered_rules_sample": []
 }

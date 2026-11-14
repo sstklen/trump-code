@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-13T20:45:44Z",
-  "posts_today": 1,
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T18:57:31Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-11-13T00:18",
-    "content_preview": "Lilly breaks ground in Pennsylvania's Lehigh Valley on a $3.5 billion site to make next-generation o"
+    "time": "2026-11-14T17:40",
+    "content_preview": "\"Some people worry about losing, I worry about not trying. I can explain a loss, I can't explain to "
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -20,12 +20,12 @@
   },
   "sp500_latest": {
     "date": "2026-11-13",
-    "close": 7548.05
+    "close": 7561.67
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-13\nPosts today: 1 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: Lilly breaks ground in Pennsylvania's Lehigh Valley on a $3.5 billion site to make next-generation o",
-    "zh": "川普密碼每日報告 -- 2026-11-13\n今日推文: 1 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: Lilly breaks ground in Pennsylvania's Lehigh Valley on a $3.5 billion site to make next-generation o",
-    "ja": "トランプ・コード日次レポート -- 2026-11-13\n本日の投稿: 1件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: Lilly breaks ground in Pennsylvania's Lehigh Valley on a $3.5 billion site to make next-generation o"
+    "en": "Trump Code Daily Report -- 2026-11-14\nPosts today: 4 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: \"Some people worry about losing, I worry about not trying. I can explain a loss, I can't explain to ",
+    "zh": "川普密碼每日報告 -- 2026-11-14\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: \"Some people worry about losing, I worry about not trying. I can explain a loss, I can't explain to ",
+    "ja": "トランプ・コード日次レポート -- 2026-11-14\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: \"Some people worry about losing, I worry about not trying. I can explain a loss, I can't explain to "
   },
   "triggered_rules_sample": []
 }

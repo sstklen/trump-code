@@ -1,7 +1,7 @@
 {
   "meta": {
     "total_surviving": 600,
-    "last_evolution": "2026-11-13T20:45:50Z",
+    "last_evolution": "2026-11-14T18:57:34Z",
     "evolved_rules_added": 48
   },
   "rules": [
@@ -13137,7 +13137,12 @@
       "parents": [
         "kw_interest_rate+volume_falling_3d",
         "kw_deal+kw_signed"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [

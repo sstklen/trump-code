@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T19:33:04Z",
-  "posts_today": 7,
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T23:12:50Z",
+  "posts_today": 6,
   "latest_post": {
-    "time": "2026-11-15T19:21",
-    "content_preview": "Exclusive — Iraqi President Nizar Amedi: President Trump 'Very Significantly Important Man' in Histo"
+    "time": "2026-11-16T14:17",
+    "content_preview": "The new people running 60 Minutes are even worse than their predecessors. A recent study on an attac"
   },
   "signals_detected": [
     "IRAN"
@@ -21,13 +21,13 @@
     "rate": 68.8
   },
   "sp500_latest": {
-    "date": "2026-11-13",
-    "close": 7561.67
+    "date": "2026-11-16",
+    "close": 7416.59
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-15\nPosts today: 7 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: Exclusive — Iraqi President Nizar Amedi: President Trump 'Very Significantly Important Man' in Histo",
-    "zh": "川普密碼每日報告 -- 2026-11-15\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: Exclusive — Iraqi President Nizar Amedi: President Trump 'Very Significantly Important Man' in Histo",
-    "ja": "トランプ・コード日次レポート -- 2026-11-15\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: Exclusive — Iraqi President Nizar Amedi: President Trump 'Very Significantly Important Man' in Histo"
+    "en": "Trump Code Daily Report -- 2026-11-16\nPosts today: 6 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: The new people running 60 Minutes are even worse than their predecessors. A recent study on an attac",
+    "zh": "川普密碼每日報告 -- 2026-11-16\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: The new people running 60 Minutes are even worse than their predecessors. A recent study on an attac",
+    "ja": "トランプ・コード日次レポート -- 2026-11-16\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: The new people running 60 Minutes are even worse than their predecessors. A recent study on an attac"
   },
   "triggered_rules_sample": []
 }

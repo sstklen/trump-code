@@ -1,14 +1,12 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T23:12:50Z",
-  "posts_today": 6,
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T22:01:30Z",
+  "posts_today": 3,
   "latest_post": {
-    "time": "2026-11-16T14:17",
-    "content_preview": "The new people running 60 Minutes are even worse than their predecessors. A recent study on an attac"
+    "time": "2026-11-17T00:44",
+    "content_preview": "Despite the United States having the MOST ABUNDANT Supply, and LOWEST COST Natural Gas in the World,"
   },
-  "signals_detected": [
-    "IRAN"
-  ],
+  "signals_detected": [],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -21,13 +19,13 @@
     "rate": 68.8
   },
   "sp500_latest": {
-    "date": "2026-11-16",
-    "close": 7416.59
+    "date": "2026-11-17",
+    "close": 7340.53
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-16\nPosts today: 6 | Models triggered: 0\nSignals: IRAN\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: The new people running 60 Minutes are even worse than their predecessors. A recent study on an attac",
-    "zh": "川普密碼每日報告 -- 2026-11-16\n今日推文: 6 篇 | 觸發模型: 0 組\n偵測信號: 伊朗\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: The new people running 60 Minutes are even worse than their predecessors. A recent study on an attac",
-    "ja": "トランプ・コード日次レポート -- 2026-11-16\n本日の投稿: 6件 | トリガーモデル: 0組\n検出シグナル: イラン\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: The new people running 60 Minutes are even worse than their predecessors. A recent study on an attac"
+    "en": "Trump Code Daily Report -- 2026-11-17\nPosts today: 3 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: Despite the United States having the MOST ABUNDANT Supply, and LOWEST COST Natural Gas in the World,",
+    "zh": "川普密碼每日報告 -- 2026-11-17\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: Despite the United States having the MOST ABUNDANT Supply, and LOWEST COST Natural Gas in the World,",
+    "ja": "トランプ・コード日次レポート -- 2026-11-17\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: Despite the United States having the MOST ABUNDANT Supply, and LOWEST COST Natural Gas in the World,"
   },
   "triggered_rules_sample": []
 }

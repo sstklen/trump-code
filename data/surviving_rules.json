@@ -1,7 +1,7 @@
 {
   "meta": {
     "total_surviving": 600,
-    "last_evolution": "2026-11-17T22:01:34Z",
+    "last_evolution": "2026-11-18T21:43:25Z",
     "evolved_rules_added": 44
   },
   "rules": [
@@ -13167,7 +13167,12 @@
       "parents": [
         "kw_interest_rate+kw_signed",
         "kw_complete_and_total+kw_maga"
-      ]
+      ],
+      "learn_stats": {
+        "correct": 0,
+        "wrong": 0,
+        "streak": 0
+      }
     },
     {
       "features": [

@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T21:43:20Z",
-  "posts_today": 3,
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T21:58:46Z",
+  "posts_today": 7,
   "latest_post": {
-    "time": "2026-11-18T07:44",
-    "content_preview": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National"
+    "time": "2026-11-19T21:11",
+    "content_preview": "I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTA"
   },
   "signals_detected": [
     "DEAL",
@@ -23,13 +23,13 @@
     "rate": 68.8
   },
   "sp500_latest": {
-    "date": "2026-11-18",
-    "close": 7323.63
+    "date": "2026-11-19",
+    "close": 7175.83
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-18\nPosts today: 3 | Models triggered: 0\nSignals: DEAL, CHINA, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National",
-    "zh": "川普密碼每日報告 -- 2026-11-18\n今日推文: 3 篇 | 觸發模型: 0 組\n偵測信號: Deal, 中國, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National",
-    "ja": "トランプ・コード日次レポート -- 2026-11-18\n本日の投稿: 3件 | トリガーモデル: 0組\n検出シグナル: ディール, 中国, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National"
+    "en": "Trump Code Daily Report -- 2026-11-19\nPosts today: 7 | Models triggered: 0\nSignals: DEAL, CHINA, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTA",
+    "zh": "川普密碼每日報告 -- 2026-11-19\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: Deal, 中國, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTA",
+    "ja": "トランプ・コード日次レポート -- 2026-11-19\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: ディール, 中国, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTA"
   },
   "triggered_rules_sample": []
 }

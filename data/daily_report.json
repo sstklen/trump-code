@@ -1,16 +1,12 @@
 {
-  "date": "2026-11-19",
-  "generated_at": "2026-11-19T21:58:46Z",
-  "posts_today": 7,
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T21:41:10Z",
+  "posts_today": 4,
   "latest_post": {
-    "time": "2026-11-19T21:11",
-    "content_preview": "I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTA"
+    "time": "2026-11-20T00:47",
+    "content_preview": "How Pete Hegseth and Stephen Miller Have Partnered on Key Issues in Trump's Administration: https://"
   },
-  "signals_detected": [
-    "DEAL",
-    "CHINA",
-    "DEAL_ONLY"
-  ],
+  "signals_detected": [],
   "models_triggered": 0,
   "direction_summary": {
     "LONG": 0,
@@ -23,13 +19,13 @@
     "rate": 68.8
   },
   "sp500_latest": {
-    "date": "2026-11-19",
-    "close": 7175.83
+    "date": "2026-11-20",
+    "close": 6910.39
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-19\nPosts today: 7 | Models triggered: 0\nSignals: DEAL, CHINA, DEAL_ONLY\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTA",
-    "zh": "川普密碼每日報告 -- 2026-11-19\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: Deal, 中國, 只有Deal沒有關稅\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTA",
-    "ja": "トランプ・コード日次レポート -- 2026-11-19\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: ディール, 中国, Dealのみ（関税無し）\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTA"
+    "en": "Trump Code Daily Report -- 2026-11-20\nPosts today: 4 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: How Pete Hegseth and Stephen Miller Have Partnered on Key Issues in Trump's Administration: https://",
+    "zh": "川普密碼每日報告 -- 2026-11-20\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: How Pete Hegseth and Stephen Miller Have Partnered on Key Issues in Trump's Administration: https://",
+    "ja": "トランプ・コード日次レポート -- 2026-11-20\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: How Pete Hegseth and Stephen Miller Have Partnered on Key Issues in Trump's Administration: https://"
   },
   "triggered_rules_sample": []
 }

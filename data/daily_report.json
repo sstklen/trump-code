@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T23:23:35Z",
-  "posts_today": 4,
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T22:57:02Z",
+  "posts_today": 7,
   "latest_post": {
-    "time": "2026-11-24T18:58",
-    "content_preview": "Judge Ana C. Reyes, who was appointed by Crooked Joe Biden, and is handling the East Potomac Golf Co"
+    "time": "2026-11-25T20:37",
+    "content_preview": "Fake News CNN was hoping for a bad outcome in Iowa. Their pre-coverage was inaccurate and deplorable"
   },
   "signals_detected": [],
   "models_triggered": 0,
@@ -19,13 +19,13 @@
     "rate": 68.8
   },
   "sp500_latest": {
-    "date": "2026-11-24",
-    "close": 7201.09
+    "date": "2026-11-25",
+    "close": 7182.78
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-24\nPosts today: 4 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: Judge Ana C. Reyes, who was appointed by Crooked Joe Biden, and is handling the East Potomac Golf Co",
-    "zh": "川普密碼每日報告 -- 2026-11-24\n今日推文: 4 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: Judge Ana C. Reyes, who was appointed by Crooked Joe Biden, and is handling the East Potomac Golf Co",
-    "ja": "トランプ・コード日次レポート -- 2026-11-24\n本日の投稿: 4件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: Judge Ana C. Reyes, who was appointed by Crooked Joe Biden, and is handling the East Potomac Golf Co"
+    "en": "Trump Code Daily Report -- 2026-11-25\nPosts today: 7 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: Fake News CNN was hoping for a bad outcome in Iowa. Their pre-coverage was inaccurate and deplorable",
+    "zh": "川普密碼每日報告 -- 2026-11-25\n今日推文: 7 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: Fake News CNN was hoping for a bad outcome in Iowa. Their pre-coverage was inaccurate and deplorable",
+    "ja": "トランプ・コード日次レポート -- 2026-11-25\n本日の投稿: 7件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: Fake News CNN was hoping for a bad outcome in Iowa. Their pre-coverage was inaccurate and deplorable"
   },
   "triggered_rules_sample": []
 }

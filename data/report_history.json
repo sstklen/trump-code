@@ -2477,5 +2477,19 @@
     "short": 0,
     "signals": [],
     "consensus": "NEUTRAL"
+  },
+  {
+    "date": "2026-11-26",
+    "posts": 8,
+    "triggered": 5,
+    "long": 5,
+    "short": 0,
+    "signals": [
+      "DEAL",
+      "CHINA",
+      "IRAN",
+      "DEAL_ONLY"
+    ],
+    "consensus": "BULLISH"
   }
 ]

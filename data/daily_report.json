@@ -1,22 +1,17 @@
 {
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T22:48:25Z",
-  "posts_today": 8,
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T22:29:36Z",
+  "posts_today": 1,
   "latest_post": {
-    "time": "2026-11-26T15:45",
-    "content_preview": "HAPPY THANKSGIVING TO ALL AMERICAN PATRIOTS WHO HAVE WORKED SO HARD TO MAKE OUR COUNTRY GREAT! Addit"
+    "time": "2026-11-27T10:23",
+    "content_preview": "We support Iraqi Prime Minister Ali al-Zaidi's efforts to assert state authority throughout Iraq, st"
   },
-  "signals_detected": [
-    "DEAL",
-    "CHINA",
-    "IRAN",
-    "DEAL_ONLY"
-  ],
-  "models_triggered": 5,
+  "signals_detected": [],
+  "models_triggered": 0,
   "direction_summary": {
-    "LONG": 5,
+    "LONG": 0,
     "SHORT": 0,
-    "consensus": "BULLISH"
+    "consensus": "NEUTRAL"
   },
   "historical_hit_rate": {
     "verified": 16,
@@ -24,67 +19,13 @@
     "rate": 68.8
   },
   "sp500_latest": {
-    "date": "2026-11-25",
-    "close": 7182.78
+    "date": "2026-11-27",
+    "close": 7297.49
   },
   "summary": {
-    "en": "Trump Code Daily Report -- 2026-11-26\nPosts today: 8 | Models triggered: 5\nSignals: DEAL, CHINA, IRAN, DEAL_ONLY\nConsensus: 5 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: HAPPY THANKSGIVING TO ALL AMERICAN PATRIOTS WHO HAVE WORKED SO HARD TO MAKE OUR COUNTRY GREAT! Addit",
-    "zh": "川普密碼每日報告 -- 2026-11-26\n今日推文: 8 篇 | 觸發模型: 5 組\n偵測信號: Deal, 中國, 伊朗, 只有Deal沒有關稅\n共識方向: 5 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: HAPPY THANKSGIVING TO ALL AMERICAN PATRIOTS WHO HAVE WORKED SO HARD TO MAKE OUR COUNTRY GREAT! Addit",
-    "ja": "トランプ・コード日次レポート -- 2026-11-26\n本日の投稿: 8件 | トリガーモデル: 5組\n検出シグナル: ディール, 中国, イラン, Dealのみ（関税無し）\nコンセンサス: 5組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: HAPPY THANKSGIVING TO ALL AMERICAN PATRIOTS WHO HAVE WORKED SO HARD TO MAKE OUR COUNTRY GREAT! Addit"
+    "en": "Trump Code Daily Report -- 2026-11-27\nPosts today: 1 | Models triggered: 0\nSignals: None\nConsensus: 0 LONG vs 0 SHORT\nHistorical hit rate: 68.8% (11/16)\nLatest post: We support Iraqi Prime Minister Ali al-Zaidi's efforts to assert state authority throughout Iraq, st",
+    "zh": "川普密碼每日報告 -- 2026-11-27\n今日推文: 1 篇 | 觸發模型: 0 組\n偵測信號: 無\n共識方向: 0 組看多 vs 0 組看空\n歷史命中率: 68.8% (11/16)\n最新推文: We support Iraqi Prime Minister Ali al-Zaidi's efforts to assert state authority throughout Iraq, st",
+    "ja": "トランプ・コード日次レポート -- 2026-11-27\n本日の投稿: 1件 | トリガーモデル: 0組\n検出シグナル: なし\nコンセンサス: 0組ロング vs 0組ショート\n過去の的中率: 68.8% (11/16)\n最新投稿: We support Iraqi Prime Minister Ali al-Zaidi's efforts to assert state authority throughout Iraq, st"
   },
-  "triggered_rules_sample": [
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect",
-        "kw_thank_you_for_your_attention"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_china",
-        "kw_corrupt",
-        "kw_economy"
-      ],
-      "direction": "LONG",
-      "hold": 2,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect"
-      ],
-      "direction": "LONG",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    },
-    {
-      "features": [
-        "kw_deal",
-        "kw_perfect",
-        "kw_thank_you_for_your_attention"
-      ],
-      "direction": "LONG",
-      "hold": 3,
-      "train_wr": 100.0,
-      "test_wr": 100.0
-    }
-  ]
+  "triggered_rules_sample": []
 }
